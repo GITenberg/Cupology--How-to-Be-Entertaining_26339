@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '31924'
     url: http://www.gutenberg.org/2009/agents/31924
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26339#Cupology--How-to-Be-Entertaining
 gutenberg_issued: '2008-08-17'
 gutenberg_type: Text
 identifiers:
